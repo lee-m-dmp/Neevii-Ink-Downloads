@@ -1,6 +1,6 @@
 # Neevii Ink 0.1.25
 
-Released 15 November 2026 � build f5b39223
+Released 15 November 2026 - build f5b39223
 
 - Improved Photoshop PSD drag import, masked groups, blend modes and layer effects, including bevel and emboss.
 - Faster, reliable Merge Visible and Flatten Image on the imported document, preserving transparency and avoiding a blank canvas flash.
