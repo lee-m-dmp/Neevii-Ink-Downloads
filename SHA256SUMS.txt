@@ -1,2 +1,2 @@
-119aeed2ed20411e287c1363d2edd4b13490a9c3550afe3ce0ed94928ab5ae32  Neevii-Ink-0.1.25-f5b39223-linux-x86_64.run
-e49ae9bf01b45d4efeeaf9099b05245324bf35b6b4b5a339a3d6ba899389cf88  Neevii.Ink_0.1.25_x64-setup.exe
+c819fbb5717f62c5ff5d0908ba100d1e2aa38d97c420981c6864dfd6d3c553bc  Neevii-Ink-0.1.26-7ac9b8d7-linux-x86_64.run
+d9a5849df88a7a6ea9a0578e14c58276d1e067f27be6c3146a5c3ac957cdd19d  Neevii.Ink_0.1.26_x64-setup.exe
