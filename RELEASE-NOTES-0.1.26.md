@@ -1,6 +1,6 @@
 # Neevii Ink 0.1.26
 
-Released 17 November 2026 · build 7ac9b8d7
+Released 17 November 2026 Â· build 7ac9b8d7
 
 - Upscaler and Enhance Detail now support ACEScg and linear-sRGB documents in 16-bit and 32-bit floating point, using the standard image-generation colour workflow.
 - Float upscale results retain working colour space, output precision, source transparency and semantic viewer settings. Enhance Detail retains the native resized base and its separate enhancement history.
