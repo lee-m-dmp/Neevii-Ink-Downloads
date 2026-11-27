@@ -2,7 +2,6 @@
 
 Released 27 November 2026 · build 6ec33f90
 
-- Open Ink inside the Neevii Studio workspace with the full editing toolbar.
 - Adjust Scatter, Shape Dynamics and Colour Dynamics from the header. Brush, Eraser and Clone Stamp keep separate settings while the Brushes panel stays collapsed.
 - See full-resolution detail when zooming and transform the visible pixels of layers with Roto masks.
 - Duplicate selected layers together. Colour Range samples more accurately and applies a sharper mask to the layer below on the first click.
